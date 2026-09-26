@@ -3,9 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\FoodController;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [FoodController::class, 'index']);
+
 
 Route::get('/foods', [FoodController::class, 'index']);
 Route::get('/foods/create', [FoodController::class, 'create']);
