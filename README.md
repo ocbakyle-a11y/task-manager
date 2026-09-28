@@ -1,22 +1,30 @@
-**Project Code:** 
+# Project Code
 
 WST21-PM-2026-SF
 
-**Student Name:**
+## Student Name
 
 JOHN KYLE OCBA
 
-**Course & Year:** 
+## Course & Year
 
 BSIT 2 YEAR
 
-**Database Used:**
+## Database Used
 
 SQLite
 
-**Features:**
+## Features
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
 - Update Status
+
+## Food Ordering System Management
+
+### Add Food
+menu.png
+
+### Food Menu
+foodmenu.png
