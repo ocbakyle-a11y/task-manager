@@ -1,12 +1,16 @@
-Project Code: WST21-PM-2026-SF
+**Project Code:** 
+WST21-PM-2026-SF
 
-Student Name: JOHN KYLE OCBA
+**Student Name:**
+JOHN KYLE OCBA
 
-Course & Year: BSIT 2 YEAR
+**Course & Year:** 
+BSIT 2 YEAR
 
-Database Used: SQLite
+**Database Used:**
+SQLite
 
-Features:
+**Features:**
 - Add Task
 - View Tasks
 - Edit Task
