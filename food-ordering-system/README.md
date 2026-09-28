@@ -17,17 +17,22 @@ SQLite
 - Delete Task
 - Update Status
 
-# TASK MANAGER 
-![alt text](image.png)
+# TASK MANAGER
 
-# CREATE ORDER
-![alt text](image-1.png)
+## TASK MANAGER
+![Task Manager](app/screenshots/image-1.png)
 
-# FOOD ORDERED
-![alt text](image-2.png)
+## CREATE TASK
+![Create Task](app/screenshots/image-2.png)
 
-# FOOD EDIT
-![alt text](image-3.png)
+## CREATED TASK
+![Created Task](app/screenshots/image-3.png)
 
-# DELETE ORDER
-![alt text](image-4.png)
+## EDIT TASK
+![Edit Task](app/screenshots/image-4.png)
+
+## TASK EDITED
+![Task Edited](app/screenshots/image-5.png)
+
+## DELETE TASK
+![Delete Task](app/screenshots/image-6.png)
