@@ -24,7 +24,8 @@ SQLite
 ## Food Ordering System Management
 
 ### Add Food
-![Add Food](menu)
+![Add Food](screenshots/menu.png)
+
 
 ### Food Menu
-![Food Menu](foodmenu)
+![Food Menu](screenshots/foodmenu.png)
