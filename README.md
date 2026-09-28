@@ -24,8 +24,10 @@ SQLite
 ## Food Ordering System Management
 
 ### Add Food
-![Add Food](screenshots/menu.png)
+
+<img width="531" height="645" alt="foodmenu" src="https://github.com/user-attachments/assets/e085ef2d-620a-4913-bb96-a672eb86041c" />
+
 
 
 ### Food Menu
-![Food Menu](screenshots/foodmenu.png)
+
